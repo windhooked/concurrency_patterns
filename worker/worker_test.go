@@ -6,7 +6,6 @@ import (
         "testing"
         "time"
 
-        "github.com/lunarforge/transaction_builder/src/usecase/worker"
 )
 
 const (
