@@ -1,2 +1,1 @@
-# concurrency_patterns
-Concurrency patterns in Golang
+# This is my playground to compare and contrast some concurrency patterns I commonly use 
