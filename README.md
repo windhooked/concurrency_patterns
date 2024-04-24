@@ -5,7 +5,7 @@ This is my playground to compare and contrast some concurrency patterns I common
 A typical recuring processing pattern is batching up events before fan-out to workers and then collecting results.
 
 The folders: 
-batch contains an implementation based on [reactiveRx](github.com/reactivex/rxgo/v2), worker contains a pure implementation based on go functions and channels
+batch contains an implementation based on [reactiveX](http://github.com/reactivex/rxgo/v2), worker contains a pure implementation based on go functions and channels
 
 https://go.dev/blog/pipelines
 
